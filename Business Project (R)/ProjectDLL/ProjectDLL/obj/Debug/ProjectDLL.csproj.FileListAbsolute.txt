@@ -1,0 +1,18 @@
+C:\Users\Hp\Desktop\Business Project\ProjectDLL\ProjectDLL\bin\Debug\ProjectDLL.dll
+C:\Users\Hp\Desktop\Business Project\ProjectDLL\ProjectDLL\bin\Debug\ProjectDLL.pdb
+C:\Users\Hp\Desktop\Business Project\ProjectDLL\ProjectDLL\obj\Debug\ProjectDLL.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Business Project\ProjectDLL\ProjectDLL\obj\Debug\ProjectDLL.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Business Project\ProjectDLL\ProjectDLL\obj\Debug\ProjectDLL.dll
+C:\Users\Hp\Desktop\Business Project\ProjectDLL\ProjectDLL\obj\Debug\ProjectDLL.pdb
+C:\Users\Hp\Desktop\OOP hahahaha\Business Project (R)\ProjectDLL\ProjectDLL\bin\Debug\ProjectDLL.dll
+C:\Users\Hp\Desktop\OOP hahahaha\Business Project (R)\ProjectDLL\ProjectDLL\bin\Debug\ProjectDLL.pdb
+C:\Users\Hp\Desktop\OOP hahahaha\Business Project (R)\ProjectDLL\ProjectDLL\obj\Debug\ProjectDLL.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\OOP hahahaha\Business Project (R)\ProjectDLL\ProjectDLL\obj\Debug\ProjectDLL.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\OOP hahahaha\Business Project (R)\ProjectDLL\ProjectDLL\obj\Debug\ProjectDLL.dll
+C:\Users\Hp\Desktop\OOP hahahaha\Business Project (R)\ProjectDLL\ProjectDLL\obj\Debug\ProjectDLL.pdb
+C:\Users\Hp\Desktop\Database Final Project\Business Project (R)\ProjectDLL\ProjectDLL\bin\Debug\ProjectDLL.dll
+C:\Users\Hp\Desktop\Database Final Project\Business Project (R)\ProjectDLL\ProjectDLL\bin\Debug\ProjectDLL.pdb
+C:\Users\Hp\Desktop\Database Final Project\Business Project (R)\ProjectDLL\ProjectDLL\obj\Debug\ProjectDLL.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Database Final Project\Business Project (R)\ProjectDLL\ProjectDLL\obj\Debug\ProjectDLL.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Database Final Project\Business Project (R)\ProjectDLL\ProjectDLL\obj\Debug\ProjectDLL.dll
+C:\Users\Hp\Desktop\Database Final Project\Business Project (R)\ProjectDLL\ProjectDLL\obj\Debug\ProjectDLL.pdb
