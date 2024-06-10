@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BF8F9857-2725-4F66-BA9D-5844B03DB3EF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>projectMID</RootNamespace>
+    <AssemblyName>projectMID</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConnectionString.cs" />
+    <Compile Include="Main_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main_Menu.Designer.cs">
+      <DependentUpon>Main_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageAssessmentComponent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageAssessmentComponent.Designer.cs">
+      <DependentUpon>ManageAssessmentComponent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageRubricLevels.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageRubricLevels.Designer.cs">
+      <DependentUpon>ManageRubricLevels.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Assesments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Assesments.Designer.cs">
+      <DependentUpon>Manage_Assesments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_ClassAttendence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_ClassAttendence.Designer.cs">
+      <DependentUpon>Manage_ClassAttendence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_CLO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_CLO.Designer.cs">
+      <DependentUpon>Manage_CLO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Evaluation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Evaluation.Designer.cs">
+      <DependentUpon>Manage_Evaluation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Rubrics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Rubrics.Designer.cs">
+      <DependentUpon>Manage_Rubrics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_StudentAttendence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_StudentAttendence.Designer.cs">
+      <DependentUpon>Manage_StudentAttendence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Students.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Students.Designer.cs">
+      <DependentUpon>Manage_Students.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Main_Menu.resx">
+      <DependentUpon>Main_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageAssessmentComponent.resx">
+      <DependentUpon>ManageAssessmentComponent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageRubricLevels.resx">
+      <DependentUpon>ManageRubricLevels.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Assesments.resx">
+      <DependentUpon>Manage_Assesments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_ClassAttendence.resx">
+      <DependentUpon>Manage_ClassAttendence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_CLO.resx">
+      <DependentUpon>Manage_CLO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Evaluation.resx">
+      <DependentUpon>Manage_Evaluation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Rubrics.resx">
+      <DependentUpon>Manage_Rubrics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_StudentAttendence.resx">
+      <DependentUpon>Manage_StudentAttendence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Students.resx">
+      <DependentUpon>Manage_Students.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,76 @@
+C:\Users\Hp\Desktop\projectMID\projectMID\bin\Debug\projectMID.exe.config
+C:\Users\Hp\Desktop\projectMID\projectMID\bin\Debug\projectMID.exe
+C:\Users\Hp\Desktop\projectMID\projectMID\bin\Debug\projectMID.pdb
+C:\Users\Hp\Desktop\projectMID\projectMID\obj\Debug\projectMID.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\projectMID\projectMID\obj\Debug\projectMID.Main_Menu.resources
+C:\Users\Hp\Desktop\projectMID\projectMID\obj\Debug\projectMID.Manage_CLO.resources
+C:\Users\Hp\Desktop\projectMID\projectMID\obj\Debug\projectMID.Manage_Students.resources
+C:\Users\Hp\Desktop\projectMID\projectMID\obj\Debug\projectMID.Properties.Resources.resources
+C:\Users\Hp\Desktop\projectMID\projectMID\obj\Debug\projectMID.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\projectMID\projectMID\obj\Debug\projectMID.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\projectMID\projectMID\obj\Debug\projectMID.exe
+C:\Users\Hp\Desktop\projectMID\projectMID\obj\Debug\projectMID.pdb
+C:\Users\Hp\Desktop\projectMID\projectMID\obj\Debug\projectMID.Manage_Rubrics.resources
+C:\Users\Hp\Desktop\projectMID\projectMID\obj\Debug\projectMID.Manage_Assesments.resources
+C:\Users\Hp\Desktop\projectMID\projectMID\obj\Debug\projectMID.ManageRubricLevels.resources
+C:\Users\Hp\Desktop\projectMID\projectMID\obj\Debug\projectMID.Manage_Evaluation.resources
+C:\Users\Hp\Desktop\projectMID\projectMID\obj\Debug\projectMID.ManageAssessmentComponent.resources
+C:\Users\Hp\Desktop\projectMID\projectMID\obj\Debug\projectMID.Manage_ClassAttendence.resources
+C:\Users\Hp\Desktop\projectMID\projectMID\obj\Debug\projectMID.Manage_StudentAttendence.resources
+C:\Users\Biya Anjum\Desktop\projectMID\projectMID\projectMID\bin\Debug\projectMID.exe.config
+C:\Users\Biya Anjum\Desktop\projectMID\projectMID\projectMID\bin\Debug\projectMID.exe
+C:\Users\Biya Anjum\Desktop\projectMID\projectMID\projectMID\bin\Debug\projectMID.pdb
+C:\Users\Biya Anjum\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.csproj.AssemblyReference.cache
+C:\Users\Biya Anjum\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.Main_Menu.resources
+C:\Users\Biya Anjum\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.ManageAssessmentComponent.resources
+C:\Users\Biya Anjum\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.ManageRubricLevels.resources
+C:\Users\Biya Anjum\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.Manage_Assesments.resources
+C:\Users\Biya Anjum\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.Manage_ClassAttendence.resources
+C:\Users\Biya Anjum\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.Manage_CLO.resources
+C:\Users\Biya Anjum\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.Manage_Evaluation.resources
+C:\Users\Biya Anjum\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.Manage_Rubrics.resources
+C:\Users\Biya Anjum\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.Manage_StudentAttendence.resources
+C:\Users\Biya Anjum\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.Manage_Students.resources
+C:\Users\Biya Anjum\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.Properties.Resources.resources
+C:\Users\Biya Anjum\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.csproj.GenerateResource.cache
+C:\Users\Biya Anjum\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.csproj.CoreCompileInputs.cache
+C:\Users\Biya Anjum\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.exe
+C:\Users\Biya Anjum\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.pdb
+C:\Users\Hp\Downloads\projectMID\projectMID\projectMID\bin\Debug\projectMID.exe.config
+C:\Users\Hp\Downloads\projectMID\projectMID\projectMID\bin\Debug\projectMID.exe
+C:\Users\Hp\Downloads\projectMID\projectMID\projectMID\bin\Debug\projectMID.pdb
+C:\Users\Hp\Downloads\projectMID\projectMID\projectMID\obj\Debug\projectMID.csproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\projectMID\projectMID\projectMID\obj\Debug\projectMID.Main_Menu.resources
+C:\Users\Hp\Downloads\projectMID\projectMID\projectMID\obj\Debug\projectMID.ManageAssessmentComponent.resources
+C:\Users\Hp\Downloads\projectMID\projectMID\projectMID\obj\Debug\projectMID.ManageRubricLevels.resources
+C:\Users\Hp\Downloads\projectMID\projectMID\projectMID\obj\Debug\projectMID.Manage_Assesments.resources
+C:\Users\Hp\Downloads\projectMID\projectMID\projectMID\obj\Debug\projectMID.Manage_ClassAttendence.resources
+C:\Users\Hp\Downloads\projectMID\projectMID\projectMID\obj\Debug\projectMID.Manage_CLO.resources
+C:\Users\Hp\Downloads\projectMID\projectMID\projectMID\obj\Debug\projectMID.Manage_Evaluation.resources
+C:\Users\Hp\Downloads\projectMID\projectMID\projectMID\obj\Debug\projectMID.Manage_Rubrics.resources
+C:\Users\Hp\Downloads\projectMID\projectMID\projectMID\obj\Debug\projectMID.Manage_StudentAttendence.resources
+C:\Users\Hp\Downloads\projectMID\projectMID\projectMID\obj\Debug\projectMID.Manage_Students.resources
+C:\Users\Hp\Downloads\projectMID\projectMID\projectMID\obj\Debug\projectMID.Properties.Resources.resources
+C:\Users\Hp\Downloads\projectMID\projectMID\projectMID\obj\Debug\projectMID.csproj.GenerateResource.cache
+C:\Users\Hp\Downloads\projectMID\projectMID\projectMID\obj\Debug\projectMID.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\projectMID\projectMID\projectMID\obj\Debug\projectMID.exe
+C:\Users\Hp\Downloads\projectMID\projectMID\projectMID\obj\Debug\projectMID.pdb
+C:\Users\Hp\Desktop\projectMID\projectMID\projectMID\bin\Debug\projectMID.exe.config
+C:\Users\Hp\Desktop\projectMID\projectMID\projectMID\bin\Debug\projectMID.exe
+C:\Users\Hp\Desktop\projectMID\projectMID\projectMID\bin\Debug\projectMID.pdb
+C:\Users\Hp\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.Main_Menu.resources
+C:\Users\Hp\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.ManageAssessmentComponent.resources
+C:\Users\Hp\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.ManageRubricLevels.resources
+C:\Users\Hp\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.Manage_Assesments.resources
+C:\Users\Hp\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.Manage_ClassAttendence.resources
+C:\Users\Hp\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.Manage_CLO.resources
+C:\Users\Hp\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.Manage_Evaluation.resources
+C:\Users\Hp\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.Manage_Rubrics.resources
+C:\Users\Hp\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.Manage_StudentAttendence.resources
+C:\Users\Hp\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.Manage_Students.resources
+C:\Users\Hp\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.Properties.Resources.resources
+C:\Users\Hp\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.exe
+C:\Users\Hp\Desktop\projectMID\projectMID\projectMID\obj\Debug\projectMID.pdb
