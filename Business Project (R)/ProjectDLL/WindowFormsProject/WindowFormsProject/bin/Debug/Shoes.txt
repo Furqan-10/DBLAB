@@ -1,0 +1,1 @@
+studs,predatorN,40,green,15,6000
